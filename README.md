@@ -9,7 +9,7 @@ I'm an undergrad at Hamline University in St. Paul, Minnesota studying Computati
 
 ### A More Pythonic Introduction 🐍:
 
-```
+```python
 class Andrew:
     def __init__(self):
         self.name = "Andrew Argeros"
