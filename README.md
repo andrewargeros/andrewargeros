@@ -24,32 +24,20 @@ class Andrew:
         self.socials = {"LinkedIn": "https://www.linkedin.com/in/andrewargeros",
                         "Website": "https://www.andrewargeros.com"}
 
-    def introduce(self):
-        print(f"""
-        Howdy! I'm {self.name}; welcome to my GitHub!
 
-        I'm an undergrad at {self.school} in {self.location} studying {self.majors[0]} and {self.majors[1]} with a
-        minor in {self.minor}. I currently am a data scientist at {self.employer}, a Shields Health Solutions
-        Company, doing work in the realm of specialty pharma. I have a passion for using {self.skills} to solve
-        problems by leveraging {self.tools}, and am an avid presenter at many data science competitions. Feel
-        free to browse, fork, or clone any of my repos!
-            """)
-
-me = Andrew()
-me.introduce()   
 ```
 
 ### Past Competitions & Projects 🥼
 
 - 🏅 **4th Place** 2019 BAC @ MC: *The Future of Renewable Energy in New York State*
 - 🥈 **2nd Place** [2019 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac): *Forecasting Soybean Futures Price*
-- [2020 MUDAC](www.github.com/andrewargeros/mudac2020): *Classifying Outcomes of the Federal Courts*
+- [2020 MUDAC](https://www.github.com/andrewargeros/mudac2020): *Classifying Outcomes of the Federal Courts*
 - 🥇 **1st Place** [2020 Federal Reserve Bank of Minneapolis](https://www.github.com/andrewargeros/Federal-Reserve-2020-MLB-Team-Success): *MLB Team Success*
 - [2020 BAC @ MC](https://www.github.com/andrewargeros/BAC-MC-2020) *Optimizing New York Housing* (**Conference Cancelled*)
 
 ### Current Projects 🧪
 
-- **Ongoing:** [2021 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac-2021): *March Madness* (**GO ZAGS!** ![](https://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2250.png&h=35&w=35))
+- **Ongoing:** [2021 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac-2021): *March Madness* (**GO ZAGS!** ![](https://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2250.png&h=30&w=30))
 - 2021 BAC @ MC: *COVID-19 & Affordable Home Ownership in NYC* (Link Coming Soon)
 
 ### My Code ‍👨🏽‍💻
