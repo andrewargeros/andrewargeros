@@ -34,11 +34,12 @@ class Andrew:
 - [2020 MUDAC](https://www.github.com/andrewargeros/mudac2020): *Classifying Outcomes of the Federal Courts*
 - 🥇 **1st Place** [2020 Federal Reserve Bank of Minneapolis](https://www.github.com/andrewargeros/Federal-Reserve-2020-MLB-Team-Success): *MLB Team Success*
 - [2020 BAC @ MC](https://www.github.com/andrewargeros/BAC-MC-2020) *Optimizing New York Housing* (**Conference Cancelled*)
+- [2021 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac-2021): *March Madness*
 
 ### Current Projects 🧪
 
-- **Ongoing:** [2021 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac-2021): *March Madness* (**GO ZAGS!** ![](https://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2250.png&h=30&w=30))
 - 2021 BAC @ MC: *COVID-19 & Affordable Home Ownership in NYC* (Link Coming Soon)
+- Reddit `r/WallStreetBets` Scraper
 
 ### My Code ‍👨🏽‍💻
 
