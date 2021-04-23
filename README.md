@@ -38,7 +38,7 @@ class Andrew:
 
 ### Current Projects 🧪
 
-- [2021 BAC @ MC Phase I](https://github.com/andrewargeros/BAC-MC-2021): *The Effects of Affordable Housing on New York City Public Health: Mitigating the COVID-19 Pandemic through Housing*
+- [2021 BAC @ MC Phase I](https://github.com/andrewargeros/BAC-MC-2021): *The Effects of Affordable Housing on New York City Public Health*
 - 2021 BAC @ MC Phase II: *Link Coming Soon*
 - Reddit `r/WallStreetBets` Scraper
 
