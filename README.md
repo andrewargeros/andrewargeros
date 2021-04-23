@@ -33,12 +33,13 @@ class Andrew:
 - 🥈 **2nd Place** [2019 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac): *Forecasting Soybean Futures Price*
 - [2020 MUDAC](https://www.github.com/andrewargeros/mudac2020): *Classifying Outcomes of the Federal Courts*
 - 🥇 **1st Place** [2020 Federal Reserve Bank of Minneapolis](https://www.github.com/andrewargeros/Federal-Reserve-2020-MLB-Team-Success): *MLB Team Success*
-- [2020 BAC @ MC](https://www.github.com/andrewargeros/BAC-MC-2020) *Optimizing New York Housing* (**Conference Cancelled*)
+- [2020 BAC @ MC](https://www.github.com/andrewargeros/BAC-MC-2020): *Optimizing New York Housing* (**Conference Cancelled*)
 - [2021 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac-2021): *March Madness*
 
 ### Current Projects 🧪
 
-- 2021 BAC @ MC: *COVID-19 & Affordable Home Ownership in NYC* (Link Coming Soon)
+- [2021 BAC @ MC Phase I](https://github.com/andrewargeros/BAC-MC-2021): *The Effects of Affordable Housing on New York City Public Health: Mitigating the COVID-19 Pandemic through Housing*
+- 2021 BAC @ MC Phase II: *Link Coming Soon*
 - Reddit `r/WallStreetBets` Scraper
 
 ### My Code ‍👨🏽‍💻
