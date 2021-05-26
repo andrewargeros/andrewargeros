@@ -43,6 +43,6 @@ class Andrew:
 
 ##### *Learn a little more about the tools I use:*
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=andrewargeros&show_icons=true&theme=react&count_private=True&bg_color=22272e&title_color=489BE9&icon_color=489BE9&hide_border=true)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewargeros&show_icons=true&layout=compact&theme=react&hide=html&bg_color=22272e&title_color=489BE9&icon_color=489BE9&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=andrewargeros&show_icons=true&theme=react&count_private=True&bg_color=22272e&title_color=489BE9&icon_color=489BE9&hide_border=true&text_color=ADBAC7)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewargeros&show_icons=true&layout=compact&theme=react&hide=html&bg_color=22272e&title_color=489BE9&icon_color=489BE9&hide_border=true&text_color=ADBAC7)
  
