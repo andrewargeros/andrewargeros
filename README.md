@@ -7,6 +7,8 @@ I'm an undergrad at Hamline University in St. Paul, Minnesota studying Computati
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewargeros/)
 [![PersonalSite](https://img.shields.io/static/v1?label=andrewargeros.com&message=Website&color=789ab7&style=for-the-badge)](https://www.andrewargeros.com)
 
+![](cover_photo.png)
+
 ### A More Pythonic Introduction 🐍:
 
 ```python
