@@ -33,17 +33,16 @@ class Andrew:
 - 🥈 **2nd Place** [2019 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac): *Forecasting Soybean Futures Price*
 - [2020 MUDAC](https://www.github.com/andrewargeros/mudac2020): *Classifying Outcomes of the Federal Courts*
 - 🥇 **1st Place** [2020 Federal Reserve Bank of Minneapolis](https://www.github.com/andrewargeros/Federal-Reserve-2020-MLB-Team-Success): *MLB Team Success*
-- [2020 BAC @ MC](https://www.github.com/andrewargeros/BAC-MC-2020) *Optimizing New York Housing* (**Conference Cancelled*)
+- [2020 BAC @ MC](https://www.github.com/andrewargeros/BAC-MC-2020): *Optimizing New York Housing* (**Conference Cancelled*)
 - [2021 MinneMUDAC](https://www.github.com/andrewargeros/minnemudac-2021): *March Madness*
-
-### Current Projects 🧪
-
-- 2021 BAC @ MC: *COVID-19 & Affordable Home Ownership in NYC* (Link Coming Soon)
-- Reddit `r/WallStreetBets` Scraper
+- **BAC @ MC 2021**:
+  - [Phase I](https://github.com/andrewargeros/BAC-MC-2021): *The Effects of Affordable Housing on New York City Public Health*
+  - [Phase II](https://github.com/andrewargeros/BAC-MC-2021-Phase2): *Tracking a Pandemic in New York City*
 
 ### My Code ‍👨🏽‍💻
 
 ##### *Learn a little more about the tools I use:*
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=andrewargeros&show_icons=true&theme=prussian&count_private=True)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewargeros&show_icons=true&layout=compact&theme=prussian&hide=html)
+![My github stats](https://github-readme-stats.vercel.app/api?username=andrewargeros&show_icons=true&theme=react&count_private=True&bg_color=22272e&title_color=489BE9&icon_color=489BE9&hide_border=true&text_color=ADBAC7)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewargeros&show_icons=true&layout=compact&theme=react&hide=html&bg_color=22272e&title_color=489BE9&icon_color=489BE9&hide_border=true&text_color=ADBAC7)
+ 
