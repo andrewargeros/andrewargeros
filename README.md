@@ -1,6 +1,6 @@
 ## Howdy! I'm Andrew Argeros; welcome to my GitHub! 👋
 
-I'm an undergrad at Hamline University in St. Paul, Minnesota studying Computational Data Science and Data Analytics with a minor in Economics. I currently am a data scientist at [ExceleraRx](https://www.ExceleraRx.com), a Shields Health Solutions Company, doing work in the realm of specialty pharma. I have a passion for using machine learning to solve problems by leveraging R, Python, SQL, and Julia, and am an avid presenter at many data science competitions. Feel free to browse, fork, or clone any of my repos!
+I'm a data scientist at Sermo, a healthcare market research company and social network for providers. I have a passion for using machine learning to solve problems by leveraging R, Python, SQL, and Julia, and am an avid presenter at many data science competitions. Feel free to browse, fork, or clone any of my repos!
 
 ##### *Check out my other pages below:*
 
@@ -15,12 +15,9 @@ I'm an undergrad at Hamline University in St. Paul, Minnesota studying Computati
 class Andrew:
     def __init__(self):
         self.name = "Andrew Argeros"
-        self.role = ["Data Scientist", "Student"]
+        self.role = [{'Data Scientist': 'Sermo'}]
         self.school = "Hamline University"
-        self.location = "St. Paul, MN"
-        self.employer = "ExceleraRx"
-        self.majors = ["Computational Data Science", "Data Analytics"]
-        self.minor = "Economics"
+        self.location = "St. Paul, MN
         self.skills = ["Data Science", "Machine Learning", "Analytics"]
         self.tools = ["R", "Python", "SQL", "Julia"]
         self.socials = {"LinkedIn": "https://www.linkedin.com/in/andrewargeros",
