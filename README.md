@@ -17,7 +17,7 @@ class Andrew:
         self.name = "Andrew Argeros"
         self.role = [{'Data Scientist': 'Sermo'}]
         self.school = "Hamline University"
-        self.location = "St. Paul, MN
+        self.location = "St. Paul, MN"
         self.skills = ["Data Science", "Machine Learning", "Analytics"]
         self.tools = ["R", "Python", "SQL", "Julia"]
         self.socials = {"LinkedIn": "https://www.linkedin.com/in/andrewargeros",
